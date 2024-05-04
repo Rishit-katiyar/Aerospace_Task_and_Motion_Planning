@@ -17,7 +17,7 @@ Prepare to be enthralled by the myriad features bestowed upon this repository by
 - **Robust Error Handling:** Navigate the treacherous waters of uncertainty with confidence, secure in the knowledge that our vigilant sentinels stand ready to intercept and neutralize any threats to the sanctity of our codebase.
 
 <p align="center">
-  <img src="https://github.com/Rishit-katiyar/Aerospace_Task_and_Motion_Planning/assets/167756997/e7d2ac1f-2f7a-4416-9343-12e1c549296c" alt="Figure_1090020" width="400">
+  <img src="https://github.com/Rishit-katiyar/Aerospace_Task_and_Motion_Planning/assets/167756997/e7d2ac1f-2f7a-4416-9343-12e1c549296c" alt="Figure_1090020" width="600">
 </p>
 
 ## Installation
