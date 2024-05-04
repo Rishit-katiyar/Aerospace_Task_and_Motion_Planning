@@ -1,6 +1,3 @@
-#installation section in Markdown format:
-
-```markdown
 # Aerospace Task and Motion Planning
 
 ## Installation
